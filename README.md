@@ -7,6 +7,8 @@ A beautiful, modern peptide tracking dashboard for researchers. Track your vial 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-06B6D4?style=flat-square&logo=tailwindcss)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+> **Note:** This app was built for personal use and is intended for use on localhost as of now. All data is stored in your browser's localStorage — no server, no cloud, no accounts. Just clone, install, and run locally on your machine. I didnt want to deal with the hassle of setting up a database and authentication, so I opted for a simpler approach. this was a quick project I needed to make for myself. feel free to use it as well, i tried to make it easy to use and understand.
+
 ---
 
 ## Features
@@ -25,6 +27,7 @@ A beautiful, modern peptide tracking dashboard for researchers. Track your vial 
 
 | Dashboard | Dose Calculator |
 |-----------|-----------------|
+| ![Dashboard](docs/images/Dashboard.png) | ![Calculator](docs/images/Calculator.png) |
 | Track all your vials at a glance with remaining amounts and usage stats | Smart calculator with validation to prevent overdrawing |
 
 ---
